@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\bin\Debug\net8.0\S11_Colectii de date.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\bin\Debug\net8.0\S11_Colectii de date.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\bin\Debug\net8.0\S11_Colectii de date.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\bin\Debug\net8.0\S11_Colectii de date.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\bin\Debug\net8.0\S11_Colectii de date.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\refint\S11_Colectii de date.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\S11_Colectii de date.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S11_Colectii de date\obj\Debug\net8.0\ref\S11_Colectii de date.dll

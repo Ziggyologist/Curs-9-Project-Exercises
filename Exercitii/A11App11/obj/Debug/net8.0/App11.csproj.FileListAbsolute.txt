@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\bin\Debug\net8.0\App11.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\bin\Debug\net8.0\App11.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\bin\Debug\net8.0\App11.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\bin\Debug\net8.0\App11.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\bin\Debug\net8.0\App11.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\refint\App11.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\App11.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\A11App11\obj\Debug\net8.0\ref\App11.dll

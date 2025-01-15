@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\bin\Debug\net8.0\Animale.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\bin\Debug\net8.0\Animale.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\bin\Debug\net8.0\Animale.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\bin\Debug\net8.0\Animale.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\bin\Debug\net8.0\Animale.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\refint\Animale.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\Animale.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\Animale\obj\Debug\net8.0\ref\Animale.dll

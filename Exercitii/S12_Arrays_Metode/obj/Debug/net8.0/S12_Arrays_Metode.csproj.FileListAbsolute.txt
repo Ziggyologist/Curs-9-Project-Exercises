@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\bin\Debug\net8.0\S12_Arrays_Metode.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\bin\Debug\net8.0\S12_Arrays_Metode.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\bin\Debug\net8.0\S12_Arrays_Metode.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\bin\Debug\net8.0\S12_Arrays_Metode.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\bin\Debug\net8.0\S12_Arrays_Metode.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\refint\S12_Arrays_Metode.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\S12_Arrays_Metode.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\S12_Arrays_Metode\obj\Debug\net8.0\ref\S12_Arrays_Metode.dll

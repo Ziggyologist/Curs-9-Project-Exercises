@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\bin\Debug\net8.0\T9.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\bin\Debug\net8.0\T9.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\bin\Debug\net8.0\T9.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\bin\Debug\net8.0\T9.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\bin\Debug\net8.0\T9.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\refint\T9.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\T9.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\T9\obj\Debug\net8.0\ref\T9.dll

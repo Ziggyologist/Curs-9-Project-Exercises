@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "App15/1.0.0": {
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "runtime": {
+          "App15.dll": {}
+        }
+      },
+      "ITSchool.AppUtilities/1.0.0": {
+        "runtime": {
+          "ITSchool.AppUtilities.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ITSchool.AppUtilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

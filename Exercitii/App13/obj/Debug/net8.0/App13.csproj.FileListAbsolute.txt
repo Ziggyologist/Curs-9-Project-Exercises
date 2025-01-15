@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\bin\Debug\net8.0\App13.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\bin\Debug\net8.0\App13.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\bin\Debug\net8.0\App13.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\bin\Debug\net8.0\App13.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\bin\Debug\net8.0\App13.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\refint\App13.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\App13.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App13\obj\Debug\net8.0\ref\App13.dll

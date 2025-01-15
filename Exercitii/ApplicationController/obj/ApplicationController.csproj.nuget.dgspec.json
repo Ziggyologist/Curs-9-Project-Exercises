@@ -1,0 +1,2046 @@
+{
+  "format": 1,
+  "restore": {
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj": {}
+  },
+  "projects": {
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj",
+        "projectName": "App11",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj",
+        "projectName": "App10",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj",
+        "projectName": "App12",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj",
+        "projectName": "App13",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj",
+        "projectName": "App14",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj",
+        "projectName": "App15",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj",
+        "projectName": "App16",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj",
+        "projectName": "App2",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj",
+        "projectName": "App3",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj",
+        "projectName": "App4",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj",
+        "projectName": "App6",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj",
+        "projectName": "App6_",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj",
+        "projectName": "App9",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj",
+        "projectName": "ApplicationController",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj"
+              },
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj",
+        "projectName": "App1",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+                "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj",
+        "projectName": "ITSchool.AppUtilities",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj",
+        "projectName": "S11_Colectii de date",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj",
+        "projectName": "S12_Arrays_Metode",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj",
+        "projectName": "S14_Clase",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj",
+        "projectName": "T10",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj",
+        "projectName": "T11",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj",
+        "projectName": "T12",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj",
+        "projectName": "T13",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj",
+        "projectName": "T01",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj",
+        "projectName": "T02",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj",
+        "projectName": "T03",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj",
+        "projectName": "T04",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj",
+        "projectName": "T05",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj",
+        "projectName": "T06",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj",
+        "projectName": "T07",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj",
+        "projectName": "T08",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj",
+        "projectName": "T09",
+        "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj",
+        "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+        "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

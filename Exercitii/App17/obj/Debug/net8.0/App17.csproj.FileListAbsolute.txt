@@ -1,0 +1,14 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\bin\Debug\net8.0\App17.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\bin\Debug\net8.0\App17.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\bin\Debug\net8.0\App17.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\bin\Debug\net8.0\App17.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\bin\Debug\net8.0\App17.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\refint\App17.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\App17.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\App17\obj\Debug\net8.0\ref\App17.dll

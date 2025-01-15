@@ -1,0 +1,684 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "App1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App1.dll": {}
+        }
+      },
+      "App10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App10.dll": {}
+        }
+      },
+      "App11/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App11.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App11.dll": {}
+        }
+      },
+      "App12/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App12.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App12.dll": {}
+        }
+      },
+      "App13/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App13.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App13.dll": {}
+        }
+      },
+      "App14/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App14.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App14.dll": {}
+        }
+      },
+      "App15/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App15.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App15.dll": {}
+        }
+      },
+      "App16/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App16.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App16.dll": {}
+        }
+      },
+      "App2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App2.dll": {}
+        }
+      },
+      "App3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App3.dll": {}
+        }
+      },
+      "App4/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App4.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App4.dll": {}
+        }
+      },
+      "App6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App6.dll": {}
+        }
+      },
+      "App6_/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App6_.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App6_.dll": {}
+        }
+      },
+      "App9/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/App9.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App9.dll": {}
+        }
+      },
+      "ITSchool.AppUtilities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ITSchool.AppUtilities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ITSchool.AppUtilities.dll": {}
+        }
+      },
+      "S11_Colectii de date/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/S11_Colectii de date.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/S11_Colectii de date.dll": {}
+        }
+      },
+      "S12_Arrays_Metode/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/S12_Arrays_Metode.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/S12_Arrays_Metode.dll": {}
+        }
+      },
+      "S14_Clase/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/S14_Clase.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/S14_Clase.dll": {}
+        }
+      },
+      "T01/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T01.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T01.dll": {}
+        }
+      },
+      "T02/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T02.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T02.dll": {}
+        }
+      },
+      "T03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T03.dll": {}
+        }
+      },
+      "T04/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T04.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T04.dll": {}
+        }
+      },
+      "T05/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T05.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T05.dll": {}
+        }
+      },
+      "T06/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T06.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T06.dll": {}
+        }
+      },
+      "T07/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T07.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T07.dll": {}
+        }
+      },
+      "T08/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T08.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T08.dll": {}
+        }
+      },
+      "T09/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T09.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T09.dll": {}
+        }
+      },
+      "T10/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T10.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T10.dll": {}
+        }
+      },
+      "T11/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T11.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T11.dll": {}
+        }
+      },
+      "T12/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T12.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T12.dll": {}
+        }
+      },
+      "T13/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/T13.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/T13.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "App1/1.0.0": {
+      "type": "project",
+      "path": "../ConsoleApp1/App1.csproj",
+      "msbuildProject": "../ConsoleApp1/App1.csproj"
+    },
+    "App10/1.0.0": {
+      "type": "project",
+      "path": "../App10/App10.csproj",
+      "msbuildProject": "../App10/App10.csproj"
+    },
+    "App11/1.0.0": {
+      "type": "project",
+      "path": "../A11App11/App11.csproj",
+      "msbuildProject": "../A11App11/App11.csproj"
+    },
+    "App12/1.0.0": {
+      "type": "project",
+      "path": "../App12/App12.csproj",
+      "msbuildProject": "../App12/App12.csproj"
+    },
+    "App13/1.0.0": {
+      "type": "project",
+      "path": "../App13/App13.csproj",
+      "msbuildProject": "../App13/App13.csproj"
+    },
+    "App14/1.0.0": {
+      "type": "project",
+      "path": "../App14/App14.csproj",
+      "msbuildProject": "../App14/App14.csproj"
+    },
+    "App15/1.0.0": {
+      "type": "project",
+      "path": "../App15/App15.csproj",
+      "msbuildProject": "../App15/App15.csproj"
+    },
+    "App16/1.0.0": {
+      "type": "project",
+      "path": "../App16/App16.csproj",
+      "msbuildProject": "../App16/App16.csproj"
+    },
+    "App2/1.0.0": {
+      "type": "project",
+      "path": "../App2/App2.csproj",
+      "msbuildProject": "../App2/App2.csproj"
+    },
+    "App3/1.0.0": {
+      "type": "project",
+      "path": "../App3/App3.csproj",
+      "msbuildProject": "../App3/App3.csproj"
+    },
+    "App4/1.0.0": {
+      "type": "project",
+      "path": "../App4/App4.csproj",
+      "msbuildProject": "../App4/App4.csproj"
+    },
+    "App6/1.0.0": {
+      "type": "project",
+      "path": "../App6/App6.csproj",
+      "msbuildProject": "../App6/App6.csproj"
+    },
+    "App6_/1.0.0": {
+      "type": "project",
+      "path": "../App6_/App6_.csproj",
+      "msbuildProject": "../App6_/App6_.csproj"
+    },
+    "App9/1.0.0": {
+      "type": "project",
+      "path": "../App9/App9.csproj",
+      "msbuildProject": "../App9/App9.csproj"
+    },
+    "ITSchool.AppUtilities/1.0.0": {
+      "type": "project",
+      "path": "../ITSchool.AppUtilities/ITSchool.AppUtilities.csproj",
+      "msbuildProject": "../ITSchool.AppUtilities/ITSchool.AppUtilities.csproj"
+    },
+    "S11_Colectii de date/1.0.0": {
+      "type": "project",
+      "path": "../S11_Colectii de date/S11_Colectii de date.csproj",
+      "msbuildProject": "../S11_Colectii de date/S11_Colectii de date.csproj"
+    },
+    "S12_Arrays_Metode/1.0.0": {
+      "type": "project",
+      "path": "../S12_Arrays_Metode/S12_Arrays_Metode.csproj",
+      "msbuildProject": "../S12_Arrays_Metode/S12_Arrays_Metode.csproj"
+    },
+    "S14_Clase/1.0.0": {
+      "type": "project",
+      "path": "../S14_Clase/S14_Clase.csproj",
+      "msbuildProject": "../S14_Clase/S14_Clase.csproj"
+    },
+    "T01/1.0.0": {
+      "type": "project",
+      "path": "../T1/T01.csproj",
+      "msbuildProject": "../T1/T01.csproj"
+    },
+    "T02/1.0.0": {
+      "type": "project",
+      "path": "../T2/T02.csproj",
+      "msbuildProject": "../T2/T02.csproj"
+    },
+    "T03/1.0.0": {
+      "type": "project",
+      "path": "../T3/T03.csproj",
+      "msbuildProject": "../T3/T03.csproj"
+    },
+    "T04/1.0.0": {
+      "type": "project",
+      "path": "../T4/T04.csproj",
+      "msbuildProject": "../T4/T04.csproj"
+    },
+    "T05/1.0.0": {
+      "type": "project",
+      "path": "../T5/T05.csproj",
+      "msbuildProject": "../T5/T05.csproj"
+    },
+    "T06/1.0.0": {
+      "type": "project",
+      "path": "../T6/T06.csproj",
+      "msbuildProject": "../T6/T06.csproj"
+    },
+    "T07/1.0.0": {
+      "type": "project",
+      "path": "../T7/T07.csproj",
+      "msbuildProject": "../T7/T07.csproj"
+    },
+    "T08/1.0.0": {
+      "type": "project",
+      "path": "../T8/T08.csproj",
+      "msbuildProject": "../T8/T08.csproj"
+    },
+    "T09/1.0.0": {
+      "type": "project",
+      "path": "../T9/T09.csproj",
+      "msbuildProject": "../T9/T09.csproj"
+    },
+    "T10/1.0.0": {
+      "type": "project",
+      "path": "../T10/T10.csproj",
+      "msbuildProject": "../T10/T10.csproj"
+    },
+    "T11/1.0.0": {
+      "type": "project",
+      "path": "../T11/T11.csproj",
+      "msbuildProject": "../T11/T11.csproj"
+    },
+    "T12/1.0.0": {
+      "type": "project",
+      "path": "../T12/T12.csproj",
+      "msbuildProject": "../T12/T12.csproj"
+    },
+    "T13/1.0.0": {
+      "type": "project",
+      "path": "../T13/T13.csproj",
+      "msbuildProject": "../T13/T13.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "App1 >= 1.0.0",
+      "App10 >= 1.0.0",
+      "App11 >= 1.0.0",
+      "App12 >= 1.0.0",
+      "App13 >= 1.0.0",
+      "App14 >= 1.0.0",
+      "App15 >= 1.0.0",
+      "App16 >= 1.0.0",
+      "App2 >= 1.0.0",
+      "App3 >= 1.0.0",
+      "App4 >= 1.0.0",
+      "App6 >= 1.0.0",
+      "App6_ >= 1.0.0",
+      "App9 >= 1.0.0",
+      "ITSchool.AppUtilities >= 1.0.0",
+      "S11_Colectii de date >= 1.0.0",
+      "S12_Arrays_Metode >= 1.0.0",
+      "S14_Clase >= 1.0.0",
+      "T01 >= 1.0.0",
+      "T02 >= 1.0.0",
+      "T03 >= 1.0.0",
+      "T04 >= 1.0.0",
+      "T05 >= 1.0.0",
+      "T06 >= 1.0.0",
+      "T07 >= 1.0.0",
+      "T08 >= 1.0.0",
+      "T09 >= 1.0.0",
+      "T10 >= 1.0.0",
+      "T11 >= 1.0.0",
+      "T12 >= 1.0.0",
+      "T13 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\teodo\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj",
+      "projectName": "ApplicationController",
+      "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\ApplicationController.csproj",
+      "packagesPath": "C:\\Users\\teodo\\.nuget\\packages\\",
+      "outputPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ApplicationController\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\teodo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\A11App11\\App11.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App10\\App10.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App12\\App12.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App13\\App13.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App14\\App14.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App15\\App15.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App3\\App3.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App4\\App4.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6\\App6.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App6_\\App6_.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App9\\App9.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ConsoleApp1\\App1.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\ITSchool.AppUtilities\\ITSchool.AppUtilities.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S11_Colectii de date\\S11_Colectii de date.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S12_Arrays_Metode\\S12_Arrays_Metode.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\S14_Clase\\S14_Clase.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T10\\T10.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T11\\T11.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T12\\T12.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T13\\T13.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T1\\T01.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T2\\T02.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T3\\T03.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T4\\T04.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T5\\T05.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T6\\T06.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T7\\T07.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T8\\T08.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\T9\\T09.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

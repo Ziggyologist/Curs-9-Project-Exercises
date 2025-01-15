@@ -1,0 +1,44 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\A11App11\App11.csproj" />
+    <ProjectReference Include="..\App10\App10.csproj" />
+    <ProjectReference Include="..\App12\App12.csproj" />
+    <ProjectReference Include="..\App13\App13.csproj" />
+    <ProjectReference Include="..\App14\App14.csproj" />
+    <ProjectReference Include="..\App15\App15.csproj" />
+    <ProjectReference Include="..\App16\App16.csproj" />
+    <ProjectReference Include="..\App2\App2.csproj" />
+    <ProjectReference Include="..\App3\App3.csproj" />
+    <ProjectReference Include="..\App4\App4.csproj" />
+    <ProjectReference Include="..\App6\App6.csproj" />
+    <ProjectReference Include="..\App6_\App6_.csproj" />
+    <ProjectReference Include="..\App9\App9.csproj" />
+    <ProjectReference Include="..\ConsoleApp1\App1.csproj" />
+    <ProjectReference Include="..\ITSchool.AppUtilities\ITSchool.AppUtilities.csproj" />
+    <ProjectReference Include="..\S11_Colectii de date\S11_Colectii de date.csproj" />
+    <ProjectReference Include="..\S12_Arrays_Metode\S12_Arrays_Metode.csproj" />
+    <ProjectReference Include="..\S14_Clase\S14_Clase.csproj" />
+    <ProjectReference Include="..\T10\T10.csproj" />
+    <ProjectReference Include="..\T11\T11.csproj" />
+    <ProjectReference Include="..\T12\T12.csproj" />
+    <ProjectReference Include="..\T13\T13.csproj" />
+    <ProjectReference Include="..\T1\T01.csproj" />
+    <ProjectReference Include="..\T2\T02.csproj" />
+    <ProjectReference Include="..\T3\T03.csproj" />
+    <ProjectReference Include="..\T4\T04.csproj" />
+    <ProjectReference Include="..\T5\T05.csproj" />
+    <ProjectReference Include="..\T6\T06.csproj" />
+    <ProjectReference Include="..\T7\T07.csproj" />
+    <ProjectReference Include="..\T8\T08.csproj" />
+    <ProjectReference Include="..\T9\T09.csproj" />
+  </ItemGroup>
+
+</Project>
