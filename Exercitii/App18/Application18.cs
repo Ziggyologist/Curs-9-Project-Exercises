@@ -11,7 +11,7 @@ namespace App18
     {
         public Application18()
         {
-            Cerinta = "Cititi un numar si calculatu patratul acestiua. Aflati rezultatul.";
+            Cerinta = "Cerinta.";
         }
 
         override public void Launch()
