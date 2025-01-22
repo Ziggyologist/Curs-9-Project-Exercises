@@ -7,6 +7,7 @@ using App6_;
 using App9;
 using App15;
 using App16;
+using App18;
 using ITSchool.AppUtilities;
 
 namespace ApplicationController;
@@ -15,7 +16,7 @@ internal class Program
     private static void Main(string[] args)
     {
         //ApplicationBase[] applications = [new Application01(), new Application02(), new Application03(), new Application4(), new Application15(), new Application16()];
-        ApplicationBase[] applications = new ApplicationBase[]{new Application16(), new Application01(), new Application02(), new Application03(), new Application4(), new Application15() };
+        ApplicationBase[] applications = new ApplicationBase[]{new Application18(), new Application16(), new Application01(), new Application02(), new Application03(), new Application4(), new Application15() };
 
         List<ApplicationBase> apps = new List<ApplicationBase>();
         //ApplicationBase.Applications.Add(new Application01());

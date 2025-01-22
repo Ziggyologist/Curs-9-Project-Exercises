@@ -91,6 +91,19 @@
           "bin/placeholder/App16.dll": {}
         }
       },
+      "App18/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ITSchool.AppUtilities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/App18.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/App18.dll": {}
+        }
+      },
       "App2/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -373,6 +386,11 @@
       "path": "../App16/App16.csproj",
       "msbuildProject": "../App16/App16.csproj"
     },
+    "App18/1.0.0": {
+      "type": "project",
+      "path": "../App18/App18.csproj",
+      "msbuildProject": "../App18/App18.csproj"
+    },
     "App2/1.0.0": {
       "type": "project",
       "path": "../App2/App2.csproj",
@@ -499,6 +517,7 @@
       "App14 >= 1.0.0",
       "App15 >= 1.0.0",
       "App16 >= 1.0.0",
+      "App18 >= 1.0.0",
       "App2 >= 1.0.0",
       "App3 >= 1.0.0",
       "App4 >= 1.0.0",
@@ -571,6 +590,9 @@
             },
             "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj": {
               "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App16\\App16.csproj"
+            },
+            "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\App18.csproj": {
+              "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\App18.csproj"
             },
             "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj": {
               "projectPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App2\\App2.csproj"

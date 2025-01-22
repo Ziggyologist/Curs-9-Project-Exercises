@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TipurideClase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcb5ba33dc8743a6e8dcd19e1bc6c3aed74b29c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TipurideClase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TipurideClase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

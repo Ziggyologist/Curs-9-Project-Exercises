@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45B13696-0059-49E1-92E8-0A30BF5B4880}|Test2\\Test2.csproj|t:\\.net course (it school)\\curs 9 project exercises\\exercitii\\test2\\baterie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45B13696-0059-49E1-92E8-0A30BF5B4880}|Test2\\Test2.csproj|solutionrelative:test2\\baterie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{262F1132-06C0-4BFD-9921-9CE7380B8728}|App18\\App18.csproj|t:\\.net course (it school)\\curs 9 project exercises\\exercitii\\app18\\application18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262F1132-06C0-4BFD-9921-9CE7380B8728}|App18\\App18.csproj|solutionrelative:app18\\application18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45B13696-0059-49E1-92E8-0A30BF5B4880}|Test2\\Test2.csproj|t:\\.net course (it school)\\curs 9 project exercises\\exercitii\\test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45B13696-0059-49E1-92E8-0A30BF5B4880}|Test2\\Test2.csproj|solutionrelative:test2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{262F1132-06C0-4BFD-9921-9CE7380B8728}|App18\\App18.csproj|t:\\.net course (it school)\\curs 9 project exercises\\exercitii\\app18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262F1132-06C0-4BFD-9921-9CE7380B8728}|App18\\App18.csproj|solutionrelative:app18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,25 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\Test2\\Program.cs",
-              "RelativeDocumentMoniker": "Test2\\Program.cs",
-              "ToolTip": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\Test2\\Program.cs",
-              "RelativeToolTip": "Test2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABXAAAAAAAAAA==",
+              "DocumentMoniker": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\Program.cs",
+              "RelativeDocumentMoniker": "App18\\Program.cs",
+              "ToolTip": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\Program.cs",
+              "RelativeToolTip": "App18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:18:59.18Z"
+              "WhenOpened": "2025-01-22T16:54:18.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Baterie.cs",
-              "DocumentMoniker": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\Test2\\Baterie.cs",
-              "RelativeDocumentMoniker": "Test2\\Baterie.cs",
-              "ToolTip": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\Test2\\Baterie.cs",
-              "RelativeToolTip": "Test2\\Baterie.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Title": "Application18.cs",
+              "DocumentMoniker": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\Application18.cs",
+              "RelativeDocumentMoniker": "App18\\Application18.cs",
+              "ToolTip": "T:\\.NET course (it school)\\Curs 9 Project Exercises\\Exercitii\\App18\\Application18.cs",
+              "RelativeToolTip": "App18\\Application18.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T18:23:40.145Z",
+              "WhenOpened": "2025-01-20T18:35:27.924Z",
               "EditorCaption": ""
             }
           ]
