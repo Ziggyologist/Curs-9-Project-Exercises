@@ -9,10 +9,14 @@ namespace App18
     public class Button { 
         public event Action Clicked;
         public string Name {  get; set; }
-
+        public Button(string name)
+        {
+            Name = name;
+        }
         public void SimulateClick()
         {
             Clicked?.Invoke();
         }
+
     }
 }
