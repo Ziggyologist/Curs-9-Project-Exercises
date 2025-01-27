@@ -6,5 +6,12 @@ namespace Form_Project
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("Click happened");
+            button1.BackColor = Color.LightPink;
+            new Form1().ShowDialog();
+        }
     }
 }
