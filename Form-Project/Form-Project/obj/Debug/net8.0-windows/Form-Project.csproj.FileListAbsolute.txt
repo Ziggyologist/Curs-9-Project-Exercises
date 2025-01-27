@@ -1,0 +1,17 @@
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\bin\Debug\net8.0-windows\Form-Project.exe
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\bin\Debug\net8.0-windows\Form-Project.deps.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\bin\Debug\net8.0-windows\Form-Project.runtimeconfig.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\bin\Debug\net8.0-windows\Form-Project.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\bin\Debug\net8.0-windows\Form-Project.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form_Project.Form1.resources
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.csproj.GenerateResource.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.GeneratedMSBuildEditorConfig.editorconfig
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.AssemblyInfoInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.AssemblyInfo.cs
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.csproj.CoreCompileInputs.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.sourcelink.json
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\refint\Form-Project.dll
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.pdb
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\Form-Project.genruntimeconfig.cache
+T:\.NET course (it school)\Curs 9 Project Exercises\Form-Project\Form-Project\obj\Debug\net8.0-windows\ref\Form-Project.dll
