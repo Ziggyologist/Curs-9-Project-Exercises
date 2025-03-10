@@ -16,3 +16,4 @@ T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\ConsoleApp1\bin\De
 T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\ConsoleApp1\bin\Debug\net8.0\ITSchool.AppUtilities.pdb
 T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\ConsoleApp1\obj\Debug\net8.0\App1.csproj.AssemblyReference.cache
 T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\ConsoleApp1\obj\Debug\net8.0\App1.csproj.Up2Date
+T:\.NET course (it school)\Curs 9 Project Exercises\Exercitii\ConsoleApp1\obj\Debug\net8.0\App1.sourcelink.json

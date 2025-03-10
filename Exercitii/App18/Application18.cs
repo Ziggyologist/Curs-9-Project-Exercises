@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,4 +28,79 @@ namespace App18
             window.Run();
         }
     }
+    class Caine
+    {
+        public override string ToString()
+        {
+            return "Ham - ham";
+        }
+    }
+
+    class Pisica
+    {
+        public override string ToString()
+        {
+            return "Miau - Miau";
+        }
+    }
+
+    class Chiuahua : Caine
+    {
+        public override string ToString()
+        {
+            return "Chi  -hamham";
+        }
+    }
+
+    class Akita : Caine
+    {
+        public override string ToString()
+        {
+            return "Aki - hamham";
+        }
+    }
+    static class UtilityClass
+    {
+        public static void Output<T>(T item)
+        {
+            Console.WriteLine(item);
+        }
+        public static void Output2<T1, T2, T3>(T1 item, T2 item2, T3 item3)
+        {
+            Console.WriteLine("item2: " + item);
+        }
+        public static T ReturnItem<T>() where T : new() //aplicare constrangere
+        {
+            return new T();
+        }
+        public static T ReturnItemCaine<T>() where T : Caine, new() //aplicare constrangere
+        {
+            return new T();
+        }
+        public static void OutputString(string item)
+        {
+            Console.WriteLine(item);
+        }
+
+        public static void OutputString(float item)
+        {
+            Console.WriteLine(item);
+        }
+        public static void OutputString(bool item)
+        {
+            Console.WriteLine(item);
+        }
+        public static void OutputString(int item)
+        {
+            Console.WriteLine(item);
+        }
+
+        public static void OutputCaine(Caine item)
+        {
+            Console.WriteLine(item);
+        }
+    }
+
+
+
 }
